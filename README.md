@@ -38,3 +38,7 @@ If you are trying to copy the examples somewhere else and modifying them. Consid
 
     # if trying to modify the 'topic' example:
     cd examples/jms/topic && mvn dependency:list
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/d0k1/activemq-artemis/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
